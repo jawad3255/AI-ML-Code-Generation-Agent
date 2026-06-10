@@ -115,9 +115,8 @@ ai-ml-code-gen-agent/
 ## 👤 Author
 
 **Mohammed Jawad**  
-AI Engineer & Data Scientist  
-📧 mdjawad9228@gmail.com  
-🔗 [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+AI Engineer & Data Scientist   
+
 
 ---
 
